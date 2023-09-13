@@ -7,7 +7,7 @@
 // @author       Fazboi
 // @match        https://www.khanacademy.org/*
 // @grant        none
-// @namespace https://greasyfork.org/users/783447
+// @namespace https://greasyfork.org/users/77534
 // ==/UserScript==
 
 
