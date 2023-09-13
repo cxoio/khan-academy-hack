@@ -1,4 +1,4 @@
-~~start copying on e //userscript:
+~~start copying on  //userscript:
 
 // ==UserScript==
 // @name         Khan-Hack
