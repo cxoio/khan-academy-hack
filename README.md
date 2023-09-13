@@ -7,4 +7,4 @@ First download tamper monkey : https://chrome.google.com/webstore/detail/tamperm
 its that one
 ----------------------------------------------------------------------------------------------------------------------------------------------
 1. After download tamper monkey, Pin Tamper Monky then press create new script
-2. Go to; khan-hack.js / https://github.com/cxoio/khan-academy-hack/blob/main/khan-hack.js . And copy the text
+2. Go to; https://github.com/cxoio/khan-academy-hack/blob/main/khan-hack.js . And copy the text
