@@ -24,3 +24,5 @@ its that one
 10. Finally enjoy your free answers!
     --------------------------------------------------------------------------------------------------------------------------------------------
 I will put updates here!
+
+UPDATE 1: today is 3/7/24 usa date or 7/3/24 for others but it still works as always
